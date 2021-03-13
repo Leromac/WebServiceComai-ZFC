@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.siza.com.co/WsComaiZfc/EnvioFormularioEntrada?wsdl" uri="wsdl/www.siza.com.co/WsComaiZfc/EnvioFormularioEntrada.wsdl"/>
+    <system systemId="http://www.siza.com.co:80/WsComaiZfc/EnvioFormularioEntrada?xsd=1" uri="wsdl/www.siza.com.co_80/WsComaiZfc/EnvioFormularioEntrada.xsd_1.xsd"/>
+</catalog>
